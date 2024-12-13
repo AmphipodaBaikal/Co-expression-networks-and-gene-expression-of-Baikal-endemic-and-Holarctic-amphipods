@@ -1,4 +1,4 @@
-# These folders provide details of the raw data analysis for Vereshchagina _et al._ manuscript _“Gene expression and co-expression networks of Baikal endemic and Holarctic amphipods under temperature stress”_
+# These folders provide details of the raw data for Vereshchagina _et al._ manuscript _“Gene expression and co-expression networks of Baikal endemic and Holarctic amphipods under temperature stress”_
 ## Data overview:
 - The folder **“Figures”** contains figures that show the expression levels of the transcripts studied under control and experimental conditions in the three species studied. It also contains images of co-expression networks of Baikal endemic and Holarctic amphipods.
 
